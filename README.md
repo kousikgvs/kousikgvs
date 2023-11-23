@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **The Best way to Learn code is to Code**
 
-<image width="400" height="300" align="right" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><image/>
+<image width="500" height="300" align="right" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><image/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
