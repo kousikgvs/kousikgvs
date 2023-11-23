@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kousik</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kousikgvs&label=Profile%20views&color=0e75b6&style=flat" alt="kousikgvs" /> </p>
 
 - 💬 Ask me about **Android Dev , Web Dev**
@@ -18,7 +19,7 @@
 <a href="https://www.linkedin.com/in/venkata-sai-kousik-gunturu-5b2040213/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.hfyxNyYHn-gITuZGOk8_IQHaHa?pid=ImgDet&w=157&h=157&c=7" alt="kousik.gvs" height="35" width="40" /></a>
 </p>
 </p>
-
+</div>
 <br />
 </ br>
 <p>
