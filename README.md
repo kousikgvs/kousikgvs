@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kousik.gvs" target="blank">
-<img align="center" src="https://th.bing.com/th/id/OIP.fiks3fdjxW29wBMF0mpSxAHaHa?pid=ImgDet&w=157&h=157&c=7" alt="kousik.gvs" height="30" width="40" /></a>
+<img align="center" src="https://th.bing.com/th/id/OIP.fiks3fdjxW29wBMF0mpSxAHaHa?pid=ImgDet&w=157&h=157&c=7" alt="kousik.gvs" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkata-sai-kousik-gunturu-5b2040213/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.hfyxNyYHn-gITuZGOk8_IQHaHa?pid=ImgDet&w=157&h=157&c=7" alt="kousik.gvs" height="35" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/in/venkata-sai-kousik-gunturu-5b2040213/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.hfyxNyYHn-gITuZGOk8_IQHaHa?pid=ImgDet&w=157&h=157&c=7" alt="kousik.gvs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
