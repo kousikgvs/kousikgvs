@@ -1,3 +1,4 @@
+<image src="https://github.com/kousikgvs/kousikgvs/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png"></image>
 <h1 align="center" style="color: #f0f0f0; font-size: 10px" >Hi 👋, I'm Kousik</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 
