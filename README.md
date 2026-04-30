@@ -15,15 +15,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kousikgvs&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<!-- Snake animation (optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kousikgvs/kousikgvs/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
